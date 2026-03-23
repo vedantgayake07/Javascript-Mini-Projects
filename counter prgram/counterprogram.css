@@ -1,0 +1,17 @@
+#btncontainer
+{
+    background-color: skyblue;
+    text-align: center;
+    align-content: center;
+    width: 200px;
+    height: 100px;
+}
+
+#number
+{
+    background-color: yellow;
+    color: red;
+    height: 100px;
+    width: 50px;
+    font-size: 50px;
+}
