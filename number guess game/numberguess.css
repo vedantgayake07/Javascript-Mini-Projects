@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(164, 219, 240);
+    text-align: center;
+}
+
+h2
+{
+    color:darkblue;
+    font-size: 60px;
+}
+
+#lab1
+{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#submit
+{
+    display: inline-block;
+    margin: 20px;
+    font-size: 35px;
+    border: 4px solid rebeccapurple;
+    border-radius: 10px;
+}
+
+#Output
+{
+    color: rgb(149, 14, 21);
+    font-size: 40px;
+    font-style: italic;
+}
