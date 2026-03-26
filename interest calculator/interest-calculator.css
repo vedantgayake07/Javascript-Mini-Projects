@@ -1,0 +1,50 @@
+body
+{
+    background-color: rgb(255, 255, 166);
+    text-align: center;
+
+}
+
+#heading
+{
+    color: red;
+    font-size: 40px;
+    font-style: oblique;
+    font-weight: 900;
+}
+
+#calculator
+{
+    background-color: rgb(120, 249, 103);
+    text-align: center;
+    width: 300px;
+    color: blue;
+    font-size: 20px;
+    padding: 20px;
+        margin-left: 38%;
+}
+
+#submit
+{
+    border: none;
+    color: aliceblue;
+    background-color: rgb(255, 102, 0);
+    font-size: 25px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+input
+{
+    font-size: 18px;
+    width: 130px;
+    margin: 5px;
+}
+
+#output
+{
+    color: palegreen;
+    font-size: 30px;
+    font-style: oblique;
+    text-decoration: solid underline white;
+}
