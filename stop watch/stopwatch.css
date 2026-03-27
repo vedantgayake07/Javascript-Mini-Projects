@@ -1,0 +1,69 @@
+body
+{
+    background-color: grey;
+    text-align: center;
+}
+
+h1
+{
+    color: rgb(32, 7, 7);
+    font-size: 50px;
+}
+
+#stopwatch
+{
+    border: 5px solid black;
+    border-radius: 38px;
+    width: 500px;
+    height: 100px;
+    margin-left: 34%;
+    margin-top: 5%;
+    color: whitesmoke;
+    font-size: 60px;
+    background-color: white;
+    color: black;
+    height: 200px;
+    align-content: center;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+button
+{
+    font-size: 30px;
+    border: none;
+    border-radius: 10px;
+    margin: 15px;
+    color: white;
+}
+
+#start
+{
+    background-color: red;
+
+}
+
+#start:hover
+{
+    background-color: rgb(184, 72, 91);
+}
+
+#stop
+{
+    background-color: rgb(45, 221, 45);
+}
+
+#stop:hover
+{
+    background-color: rgb(88, 185, 88);
+}
+
+#reset
+{
+    background-color: aqua;
+}
+
+#reset:hover
+{
+    background-color: skyblue;
+}
