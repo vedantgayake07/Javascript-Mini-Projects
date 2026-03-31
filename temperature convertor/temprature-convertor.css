@@ -1,0 +1,63 @@
+h1
+{
+    color: rgb(10, 60, 80);
+}
+
+body
+{
+    text-align: center;
+}
+#div1
+{
+    padding: 20px;
+    background-color: rgb(179, 210, 239);
+    display: flex;
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    flex-direction:column;
+    box-shadow: 5px 5px 15px rgb(164, 164, 231) ;
+    margin-left: 35vw;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+#lab1
+{
+    color: blue;
+    font-style: italic;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+#txt
+{
+    width: 100px;
+    height: 40px;
+}
+
+#rl1,#rl2
+{
+   font-size: 20px;
+   color: rgb(109, 50, 164); 
+   font-weight: bolder;
+}
+
+#submit
+{
+    color: rgb(12, 51, 206);
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: bold;
+    border-radius: 20px;
+    border: 5px solid rebeccapurple;
+    background-color: rgb(117, 220, 220);
+}
+
+#output
+{
+    color: dodgerblue;
+    font-size: 30px;
+    font-style: oblique;
+}
